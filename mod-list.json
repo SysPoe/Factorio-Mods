@@ -1,0 +1,151 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "AdvancedNuclear3",
+      "enabled": true
+    },
+    
+    {
+      "name": "Aircraft",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt-balancer",
+      "enabled": true
+    },
+    
+    {
+      "name": "beltlayer",
+      "enabled": true
+    },
+    
+    {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    
+    {
+      "name": "DoubleSpeedBelts",
+      "enabled": true
+    },
+    
+    {
+      "name": "EasyMediumPole",
+      "enabled": true
+    },
+    
+    {
+      "name": "endless_resources",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
+      "name": "EvoGUI",
+      "enabled": true
+    },
+    
+    {
+      "name": "Factorissimo2",
+      "enabled": true
+    },
+    
+    {
+      "name": "FARL",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "jetpack",
+      "enabled": true
+    },
+    
+    {
+      "name": "Kux-OrbitalIonCannon",
+      "enabled": true
+    },
+    
+    {
+      "name": "Load-Furn-Fixed",
+      "enabled": true
+    },
+    
+    {
+      "name": "OrbitalSolarPower",
+      "enabled": true
+    },
+    
+    {
+      "name": "pipelayer",
+      "enabled": true
+    },
+    
+    {
+      "name": "Portals",
+      "enabled": true
+    },
+    
+    {
+      "name": "qol_research",
+      "enabled": true
+    },
+    
+    {
+      "name": "quarry-18",
+      "enabled": true
+    },
+    
+    {
+      "name": "robot_attrition",
+      "enabled": true
+    },
+    
+    {
+      "name": "shield-projector",
+      "enabled": true
+    },
+    
+    {
+      "name": "stdlib",
+      "enabled": true
+    },
+    
+    {
+      "name": "timeSpeed",
+      "enabled": true
+    },
+    
+    {
+      "name": "Turret_Range_Buff_1dot1",
+      "enabled": true
+    },
+    
+    {
+      "name": "UltimateBelts",
+      "enabled": true
+    }
+  ]
+}
